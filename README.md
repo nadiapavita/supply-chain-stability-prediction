@@ -16,17 +16,30 @@ Penelitian ini berfokus pada klasifikasi multikelas pada data tidak seimbang den
 
 ## Struktur Repositori
 supply-chain-stability-prediction/
+
 │
+
 ├── data/
+
 ├── notebooks/
+
 ├── src/
+
 ├── results/
+
 ├── models/
+
 ├── requirements.txt
+
 └── README.md
 
+## Identitas
 Nadia Pavita Amelia
+
 Program Studi S1 Sains Data
+
 Fakultas Informatika
+
 Telkom University
+
 2025
