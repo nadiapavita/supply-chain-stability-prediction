@@ -13,6 +13,12 @@ Penelitian ini berfokus pada klasifikasi multikelas pada data tidak seimbang den
 - Menganalisis pengaruh normalisasi dan teknik balancing terhadap performa model
 
 ---
+## Penjelasan Penelitian
+Penelitian dilakukan menggunakan dataset dengan total 649.999 baris data yang melalui beberapa tahapan, mulai dari data cleaning, eksplorasi data, preprocessing, hingga proses training model seperti yang ditunjukkan pada flowchart yang ditampilkan di slide presentation.
+
+Dilakukan beberapa perbandingan teknik preprocessing, yaitu normalisasi Robust Scaler tanpa balancing, Min-Max Scaler tanpa balancing, Robust Scaler dengan balancing, serta Min-Max Scaler dengan balancing. Berdasarkan hasil eksperimen yang dilakukan, penggunaan Min-Max Scaler tanpa balancing memberikan performa terbaik untuk dataset ini dengan nilai akurasi sebesar 0,97. 
+
+---
 
 ## Identitas
 Nadia Pavita Amelia
